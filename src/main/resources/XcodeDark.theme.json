@@ -4,11 +4,11 @@
   "author": "Zihan Ma",
   "editorScheme": "/XcodeDark.xml",
   "colors": {
-    "primary": "#000000",
+    "primary": "#292a2f",
     "secondary": "#363636",
     "activeSelection": "#2f55b1",
     "inactiveSelection": "#515b70",
-    "borderColor": "#121212"
+    "borderColor": "#373737"
   },
   "ui": {
     "*": {
@@ -149,11 +149,13 @@
       },
       "Header": {
         "background": "#3c3b3b",
-        "inactiveBackground": "secondary"
+        "inactiveBackground": "#292a2f"
       }
     },
     "Tree": {
-      "background": "#27282d"
+      "background": "#27282d",
+      "selectionInactiveBackground": "#2f55b1",
+      "selectionBackground": "#2f55b1"
     },
     "VersionControl": {
       "Log": {
@@ -176,6 +178,15 @@
       "Details": {
         "background": "background"
       }
+    },
+    "FileColor": {
+      "Yellow": "#c2c200",
+      "Green": "#00a439",
+      "Blue": "#2f55b1",
+      "Violet": "#b600b6",
+      "Orange": "#c05300",
+      "Rose": "#c4003b",
+      "Gray": "#23252a"
     }
   },
   "icons": {
