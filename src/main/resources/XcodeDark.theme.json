@@ -84,7 +84,7 @@
     },
     "EditorTabs": {
       "underlinedTabBackground": "primary",
-      "background": "secondary",
+      "background": "primary",
       "underlineHeight": 2
     },
     "Link": {
