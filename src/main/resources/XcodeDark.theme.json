@@ -4,8 +4,8 @@
   "author": "Zihan Ma",
   "editorScheme": "/XcodeDark.xml",
   "colors": {
-    "primary": "#212327",
-    "secondary": "#343333",
+    "primary": "#000000",
+    "secondary": "#363636",
     "activeSelection": "#2f55b1",
     "inactiveSelection": "#515b70",
     "borderColor": "#121212"
